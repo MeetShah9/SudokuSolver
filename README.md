@@ -2,7 +2,7 @@
 ## Overview
 This project implements a Sudoku solver application using computer vision techniques and deep learning. The application allows users to upload an image of a Sudoku puzzle, which is then processed to extract the puzzle grid and solve it using an algorithm based on backtracking. The solution is overlaid onto the original image and displayed back to the user.
 
-![working]("https://github.com/MeetShah9/SudokuSolver/assets/148629466/6711cc0b-0562-4074-a801-10a181308f72")
+https://github.com/MeetShah9/SudokuSolver/assets/148629466/6496c1bd-9bfa-4274-a255-b71998782897
 
 ## How it Works
 1. The user uploads an image of a Sudoku puzzle.
@@ -14,6 +14,9 @@ This project implements a Sudoku solver application using computer vision techni
    
 ## Technologies Used
 - Python
+
+
+
 - OpenCV (Open Source Computer Vision Library)
 - NumPy
 - Keras (Deep Learning Library)
