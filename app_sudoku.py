@@ -391,7 +391,7 @@ def main():
     st.title("Sudoku Solver")
     uploaded_file = st.sidebar.file_uploader("Upload Image")
 
-    model_path = "/Users/meetshah/Desktop/digit_model.h5"
+    model_path = "digit_model.h5"
     solver_utils = SudokuSolverUtils(model_path)
 
     if uploaded_file is not None:
